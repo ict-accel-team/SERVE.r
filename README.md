@@ -11,8 +11,7 @@ SERVE.r平台使用手册
 
 3. 将本仓库中bin目录下的BOOT.bin和RV_BOOT.bin两个文件拷入SD卡的boot区
 
-4. 将Debian文件系统拷贝到SD卡的root分区（注意要使用特权模式）
-
+4. 将Debian文件系统拷贝到SD卡的root分区（注意要使用特权模式）   
 Debian文件系统的制作方式请参考：https://wiki.debian.org/RISC-V   
 
 5. 将SD卡插入PYNQ板卡的SD卡槽   
